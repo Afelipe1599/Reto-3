@@ -11,7 +11,11 @@
 using namespace std;
 
 
+<<<<<<< HEAD
 void funcion (int a, int b, int c){
+=======
+int funcion (int a, int b, int c){
+>>>>>>> f1e01763c8ba0cb889cb7f3bcc076aa7beec34f1
 		
 	if((a>0)&&(b>0)){
 		return 2*c;
@@ -40,6 +44,7 @@ void funcion (int a, int b, int c){
 
 int main(){
 	
+<<<<<<< HEAD
 	cout<<"Ingrese el numero a"<<endl;
 	cin>>a;
 	cout<<"Ingrese el numero b"<<endl;
@@ -48,6 +53,22 @@ int main(){
 	cin>>c;
 	
 	funcion (a,b,c);
+=======
+	int x, y, z;
+
+	cout<<"Ingrese el numero a"<<endl;
+	cin>>x;
+	cout<<"Ingrese el numero b"<<endl;
+	cin>>y;
+	cout<<"Ingrese el numero c"<<endl;
+	cin>>z;
+	
+<<<<<<< HEAD
+	funcion(a,b,c);
+=======
+	funcion (x,y,z);
+>>>>>>> 45371e288138e673dac3c7615e446b72af7c54b2
+>>>>>>> f1e01763c8ba0cb889cb7f3bcc076aa7beec34f1
 	
 }
 			

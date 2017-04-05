@@ -10,16 +10,9 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	int a,b,c;
-	
-	cout<<"Ingrese el numero a"<<endl;
-	cin>>a;
-	cout<<"Ingrese el numero b"<<endl;
-	cin>>b;
-	cout<<"Ingrese el numero c"<<endl;
-	cin>>c;
-	
+
+void funcion (int a, int b, int c){
+		
 	if((a>0)&&(b>0)){
 		return 2*c;
 	}
@@ -42,6 +35,20 @@ int main(){
 			c;
 		}
 	}
+	
+	}
+
+int main(){
+	
+	cout<<"Ingrese el numero a"<<endl;
+	cin>>a;
+	cout<<"Ingrese el numero b"<<endl;
+	cin>>b;
+	cout<<"Ingrese el numero c"<<endl;
+	cin>>c;
+	
+	funcion (a,b,c);
+	
 }
 			
 	

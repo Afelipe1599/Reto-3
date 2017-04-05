@@ -47,7 +47,7 @@ int main(){
 	cout<<"Ingrese el numero c"<<endl;
 	cin>>c;
 	
-	funcion (a,b,c);
+	funcion(a,b,c);
 	
 }
 			

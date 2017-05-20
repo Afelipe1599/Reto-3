@@ -21,4 +21,6 @@ Algunos cuadrados conservan la suma mágica a lo largo de todas las diagonales q
 ### **Cuadrado P-Magico**
 
 Los cuadrados p-mágicos son aquellos tales que elevadas todas las cifras del cuadrado a la k potencia, siendo 1≤k≤p, siguen siendo mágicos:
-![a]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/d/dd/Cuadrado_M%C3%A1gico_Parmente_par2.png)
+
+![]({{site.baseurl}}//Cuadrado_M%C3%A1gico_Parmente_par2.png)
+![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/d/dd/Cuadrado_M%C3%A1gico_Parmente_par2.png)
